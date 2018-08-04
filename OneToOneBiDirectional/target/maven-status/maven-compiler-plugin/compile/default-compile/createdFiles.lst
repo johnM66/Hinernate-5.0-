@@ -1,0 +1,5 @@
+com\infotech\entities\Address.class
+com\infotech\entities\Employee.class
+com\infotech\util\HibernateUtil.class
+com\infotech\client\FetchDataClientTest.class
+com\infotech\client\SaveDataClientTest.class
